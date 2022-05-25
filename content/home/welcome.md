@@ -14,10 +14,8 @@ design:
     gradient_end: ""
     color: "#ffffff"
     text_color_light: false
-hero_media: titel_illustration.png
+hero_media: welcome.jpg
 ---
 <br>
 
-The **HCI Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-
-![](titel_illustration.png)
+The **HCI Research Group** is focused on 3D interaction in spatial environments, especially in XR and games.
