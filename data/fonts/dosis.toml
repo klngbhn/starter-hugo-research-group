@@ -5,7 +5,7 @@ name = "Dosis"
 google_fonts = "family=Dosis:wght@200;400;800"
 
 # Font families
-heading_font = "Dosis 800"
-body_font = "Dosis 400"
-nav_font = "Dosis 200"
+heading_font = "Dosis"
+body_font = "Dosis"
+nav_font = "Dosis"
 mono_font = "Dosis"
