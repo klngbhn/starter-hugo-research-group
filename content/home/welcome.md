@@ -13,7 +13,7 @@ design:
     gradient_start: ""
     gradient_end: ""
     color: "#ffffff"
-    text_color_light: true
+    text_color_light: false
 hero_media: welcome.jpg
 ---
 <br>
