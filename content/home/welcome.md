@@ -9,6 +9,9 @@ design:
   columns: "1"
   css_style: null
   css_class: null
+  background:
+    gradient_start: "#ffffff"
+    gradient_end: "#000000"
 hero_media: welcome.jpg
 ---
 <br>
