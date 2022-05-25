@@ -3,7 +3,7 @@ widget: hero
 widget_id: HCI
 headless: true
 weight: 10
-title: Human-Computer Interaction
+title: HUMAN-COMPUTER INTERACTION
 subtitle: Research Group
 design:
   columns: "1"
@@ -14,7 +14,7 @@ design:
     gradient_end: ""
     color: "#ffffff"
     text_color_light: false
-hero_media: titel_illustration.png
+hero_media: welcome.jpg
 ---
 <br>
 
