@@ -14,7 +14,7 @@ design:
     gradient_end: ""
     color: "#ffffff"
     text_color_light: false
-hero_media: welcome.jpg
+hero_media: titel_illustration.png
 ---
 <br>
 
