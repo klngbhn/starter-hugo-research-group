@@ -10,8 +10,10 @@ design:
   css_style: null
   css_class: null
   background:
-    gradient_start: "#ffffff"
-    gradient_end: "#000000"
+    gradient_start: ""
+    gradient_end: ""
+    color: "#ffffff"
+    text_color_light: true
 hero_media: welcome.jpg
 ---
 <br>
