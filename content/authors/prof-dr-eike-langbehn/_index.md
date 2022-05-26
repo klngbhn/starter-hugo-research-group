@@ -32,6 +32,8 @@ education:
       year: 2011
       institution: Carl-von-Ossietzky Universität Oldenburg
 superuser: true
+user_groups:
+  - Researchers
 ---
 Eike Langbehn is Professor for Media Informatics at the HAW Hamburg and Creative Re-Director at Curvature Games. He studied Computer Science in Oldenburg and Hamburg and graduated with a PhD thesis about perceptual aspects of VR locomotion in 2019. In 2020, he co-founded Curvature Games, a Hamburg-based games studio that is specialised in narrative VR experiences. Since 2012, he has been working in the games industry as a programmer and game designer on titles for different platforms including web, mobile and VR.
 
