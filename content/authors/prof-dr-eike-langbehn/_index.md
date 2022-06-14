@@ -15,6 +15,26 @@ social:
     link: /contact
     icon_pack: fas
     icon: envelope
+  - display:
+      header: false
+    link: https://twitter.com/k_lngbhn
+    icon_pack: fab
+    icon: twitter
+  - display:
+      header: false
+    link: https://scholar.google.de/citations?user=b6TgtEcAAAAJ
+    icon_pack: fas
+    icon: graduation-cap
+  - display:
+      header: false
+    link: https://github.com/klngbhn/
+    icon_pack: fab
+    icon: github
+  - display:
+      header: false
+    link: https://www.linkedin.com/in/eike-langbehn-777b35134/
+    icon_pack: fab
+    icon: linkedin
 organizations:
   - name: Hamburg University of Applied Sciences
     url: https://www.haw-hamburg.de/
