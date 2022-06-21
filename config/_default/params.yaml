@@ -97,8 +97,8 @@ features:
 
 content:
   coordinates:
-    latitude: '53.56855'
-    longitude: '10.03375'
+    latitude: '10.03375'
+    longitude: '53.56855'
 
 # Extensions
 
