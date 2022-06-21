@@ -3,7 +3,7 @@ widget: hero
 widget_id: HCI
 headless: true
 weight: 10
-title: HUMAN-COMPUTER INTERACTION
+title: INTERACTIVE CREATIVE TECHNOLOGIES
 subtitle: Research Group
 design:
   columns: "1"
@@ -18,4 +18,4 @@ hero_media: titel_illustration.png
 ---
 <br>
 
-The **HCI Research Group** is focused on 3D interaction in narrative and playful media such as XR and games.
+The **ICT Research Group** is focused on 3D interaction in narrative and playful media such as XR and games.
