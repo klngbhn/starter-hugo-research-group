@@ -1,6 +1,6 @@
 ---
 widget: hero
-widget_id: HCI
+widget_id: ICT
 headless: true
 weight: 10
 title: INTERACTIVE CREATIVE TECHNOLOGIES
