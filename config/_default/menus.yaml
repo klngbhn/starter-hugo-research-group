@@ -12,6 +12,9 @@ main:
     weight: 30
   - name: Publications
     url: publication
+    weight: 40
+  - name: Projects
+    url: project
     weight: 50
   - name: Teaching
     identifier: teaching
