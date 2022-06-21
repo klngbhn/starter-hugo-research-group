@@ -95,6 +95,11 @@ features:
     api_key: ''
     zoom: 15
 
+content:
+  coordinates:
+    latitude: '53.56855'
+    longitude: '10.03375'
+
 # Extensions
 
 extensions:
