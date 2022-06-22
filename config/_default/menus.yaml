@@ -16,17 +16,17 @@ main:
   - name: Projects
     url: project
     weight: 50
-  - name: Teaching
-    identifier: teaching
-    weight: 60
-  - name: Theses
-    parent: teaching
-    url: teaching/theses/
-    weight: 70
-  - name: Classes
-    parent: teaching
-    url: teaching/classes/
-    weight: 80
+#  - name: Teaching
+#    identifier: teaching
+#    weight: 60
+#  - name: Theses
+#    parent: teaching
+#    url: teaching/theses/
+#    weight: 70
+#  - name: Classes
+#    parent: teaching
+#    url: teaching/classes/
+#    weight: 80
   - name: Contact
     url: contact
     weight: 100
