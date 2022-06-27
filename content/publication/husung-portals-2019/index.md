@@ -1,7 +1,7 @@
 ---
 title: "Of portals and orbs: An evaluation of scene transition techniques for virtual reality"
 date: 2019-01-01
-publishDate: 2022-06-27T22:06:27.294456Z
+publishDate: 2022-06-27T22:11:40.990135Z
 authors: ["Malte Husung", "Eike Langbehn"]
 publication_types: ["6"]
 abstract: ""

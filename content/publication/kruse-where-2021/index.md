@@ -1,7 +1,7 @@
 ---
 title: "Where are you? Influence of Redirected Walking on Audio-Visual Position Estimation of Co-Located Users"
 date: 2021-01-01
-publishDate: 2022-06-27T22:06:27.295628Z
+publishDate: 2022-06-27T22:11:40.991901Z
 authors: ["Lucie Kruse", "Eike Langbehn", "Frank Steinicke"]
 publication_types: ["1"]
 abstract: ""

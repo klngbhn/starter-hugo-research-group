@@ -1,7 +1,7 @@
 ---
 title: "Subliminal Reorientation and Repositioning in Virtual Reality During Eye BlinksfootnoteThis publication received the emphHonorable Mention for Best Poster."
 date: 2016-01-01
-publishDate: 2022-06-27T22:06:27.290768Z
+publishDate: 2022-06-27T22:11:40.984489Z
 authors: ["E. Langbehn", "Gerd Bruder", "Frank Steinicke"]
 publication_types: ["1"]
 abstract: ""

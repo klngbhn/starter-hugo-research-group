@@ -1,7 +1,7 @@
 ---
 title: "Design of Mentally and Physically Demanding Tasks as Distractors of Rotation Gains"
 date: 2022-01-01
-publishDate: 2022-06-27T22:06:27.296609Z
+publishDate: 2022-06-27T22:11:40.993324Z
 authors: ["Daniel Neves Coelho", "Frank Steinicke", "Eike Langbehn"]
 publication_types: ["1"]
 abstract: ""

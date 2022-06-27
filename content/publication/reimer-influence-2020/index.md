@@ -1,7 +1,7 @@
 ---
 title: "The influence of full-body representation on translation and curvature gain"
 date: 2020-01-01
-publishDate: 2022-06-27T22:06:27.295158Z
+publishDate: 2022-06-27T22:11:40.991202Z
 authors: ["Dennis Reimer", "Eike Langbehn", "Hannes Kaufmann", "Daniel Scherzer"]
 publication_types: ["1"]
 abstract: ""

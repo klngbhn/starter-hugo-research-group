@@ -1,7 +1,7 @@
 ---
 title: "Rethinking Redirected Walking: On the Use of Curvature Gains Beyond Perceptual Limitations and Revisiting Bending Gains"
 date: 2018-01-01
-publishDate: 2022-06-27T22:06:27.293691Z
+publishDate: 2022-06-27T22:11:40.989000Z
 authors: ["Michael Rietzler", "Jan Gugenheimer", "Teresa Hirzle", "Martin Deubzer", "E. Langbehn", "Enrico Rukzio"]
 publication_types: ["1"]
 abstract: ""
