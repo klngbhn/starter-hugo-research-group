@@ -1,7 +1,7 @@
 ---
 title: "Detection thresholds for vertical gains in vr and drone-based telepresence systems"
 date: 2020-01-01
-publishDate: 2022-06-27T21:55:12.750616Z
+publishDate: 2022-06-27T22:06:27.294928Z
 authors: ["Keigo Matsumoto", "Eike Langbehn", "Takuji Narumi", "Frank Steinicke"]
 publication_types: ["1"]
 abstract: ""

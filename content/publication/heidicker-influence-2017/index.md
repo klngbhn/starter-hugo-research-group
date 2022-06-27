@@ -1,8 +1,8 @@
 ---
 title: "Influence of Avatar Appearance on Presence in Social VR"
 date: 2017-01-01
-publishDate: 2022-06-27T21:55:12.745986Z
-authors: ["Paul Heidicker", "\textbfE. Langbehn", "Frank Steinicke"]
+publishDate: 2022-06-27T22:06:27.288779Z
+authors: ["Paul Heidicker", "E. Langbehn", "Frank Steinicke"]
 publication_types: ["1"]
 abstract: ""
 featured: false
