@@ -18,4 +18,4 @@ hero_media: titel_illustration.png
 ---
 <br>
 
-The **HCI Research Group** is focused on 3D interaction including perceptual and cognitive aspects in narrative and playful media such as XR and games.
+The **HCI Research Group** explores 3D interaction in narrative and playful media such as XR and games, with a focus on perceptual and cognitive aspects.
