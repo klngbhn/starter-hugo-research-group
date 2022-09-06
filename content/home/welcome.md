@@ -18,4 +18,4 @@ hero_media: titel_illustration.png
 ---
 <br>
 
-The **ICT Research Group** is focused on 3D interaction in narrative and playful media such as XR and games.
+The **HCI Research Group** is focused on 3D interaction including perceptual and cognitive aspects in narrative and playful media such as XR and games.
