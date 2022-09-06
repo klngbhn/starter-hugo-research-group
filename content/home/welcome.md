@@ -1,9 +1,9 @@
 ---
 widget: hero
-widget_id: ICT
+widget_id: HCI
 headless: true
 weight: 10
-title: INTERACTIVE CREATIVE TECHNOLOGIES
+title: HUMAN-COMPUTER INTERACTION
 subtitle: Research Group
 design:
   columns: "1"
