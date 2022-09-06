@@ -13,8 +13,6 @@ The project aims to convey the content of a course also through the teaching con
 
 In this project, an Open Educational Resource (OER) course for the Hamburg Open Online University will be designed that not only addresses these issues, but also conveys them through form and approach.
 
-Translated with www.DeepL.com/Translator (free version)
-
 **Project term:** 08/2021 - 12/2022
 
 **Funding source:** Hamburg Open Online University (HOOU)
