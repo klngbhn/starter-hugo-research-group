@@ -9,9 +9,11 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Das Projekt hat das Ziel die Inhalte eines Kurses auch durch die verwendeten Lehrkonzepte zu vermitteln. Iteratives Vorgehen und Agile Methoden sind in der Software-Entwicklung heutzutage Standard, insbesondere bei menschzentrierten Entwicklungsprozessen, die darauf basieren, dass Feedback durch tatsächliche Nutzer:innen immer wieder in die Entwicklung einfließt und iterativ immer wieder die Phasen Analyse, Design, Implementierung und Evaluation durchlaufen werden.
+The project aims to convey the content of a course also through the teaching concepts used. Iterative approaches and agile methods are standard in software development nowadays, especially in human-centered development processes, which are based on the fact that feedback from actual users is repeatedly incorporated into the development and that the phases of analysis, design, implementation and evaluation are iteratively passed through again and again.
 
-In diesem Projekt wird ein Open Educational Ressource (OER) - Kurs für die Hamburg Open Online University entworfen, der nicht nur diese Themen zum Inhalt hat, sondern diese Themen auch durch Form und Vorgehen vermittelt. 
+In this project, an Open Educational Resource (OER) course for the Hamburg Open Online University will be designed that not only addresses these issues, but also conveys them through form and approach.
+
+Translated with www.DeepL.com/Translator (free version)
 
 **Project term:** 08/2021 - 12/2022
 
