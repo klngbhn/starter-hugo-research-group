@@ -9,10 +9,8 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Virtual Reality wird oft als „Empathy Machine“ bezeichnet, da diese Technologie es\
-ermöglicht, die Perspektive einer anderen Person einzunehmen. Dies könnte zum\
-Beispiel helfen Menschen für Diskriminierungen zu sensibilisieren.\
-Im Rahmen des Projekts VERI wird ein VR Szenario entwickelt, mit dem dieser Anspruch durch eine Benutzerstudie überprüft und evaluiert wird. Darüber hinaus untersuchen wir den Zusammenhang zwischen Empathie und verschiedenen Aspekten von Virtual Reality wie Immersion, Präsenz und Interaktivität.
+Virtual Reality is often referred to as the "empathy machine," as this technology makes it possible to take on the perspective of another person. This could, for example, help to sensitize people to discrimination.
+In the VERI project, we are developing a VR scenario to test and evaluate this claim through a user study. Furthermore, we investigate the relationship between empathy and different aspects of virtual reality like immersion, presence and interactivity.
 
 **Project term:** 08/2021 - 07/2022
 
